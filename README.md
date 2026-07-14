@@ -50,7 +50,7 @@ In active development - not yet publicly launched.
 
 ## Getting Started
 
-This project is deployed on Lovable and requires provisioned backend services (Supabase, Paddle, Lovable AI Gateway) to run locally. See docs/ARCHITECTURE.md for the full setup.
+This project is deployed on Lovable and requires provisioned backend services (Supabase, Paddle, Lovable AI Gateway) to run locally. See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full setup.
 
 ## Roadmap
 
