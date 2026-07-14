@@ -12,7 +12,7 @@ Built by a licensed dental hygienist (CompTIA Security+, Network+) currently piv
 
 Please report security issues privately using GitHub's [private vulnerability reporting](../../security/advisories/new) feature — do not open a public issue.
 
-Expect an initial response within 72 hours.
+Expect an initial response within 72 hours
 
 ## Scope
 This is a pre-launch project. Findings related to auth, RLS, data exposure,
