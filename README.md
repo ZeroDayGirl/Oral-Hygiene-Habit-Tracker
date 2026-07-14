@@ -1,10 +1,10 @@
-# Zoolee™  — Oral Hygiene Habit Tracker
+# Zoolee  — Oral Hygiene Habit Tracker
 
 A mobile-first habit-tracking app that helps users build consistent brushing and flossing routines through timed sessions, streak tracking, and positive reinforcement.
 
 ## About This Project
 
-Built by a licensed dental hygienist (CompTIA Security+, Network+) currently pivoting into tech, combining clinical oral health expertise with product design and AI-assisted development. This project is being used to demonstrate technical judgment, specification writing, and system design thinking as part of that transition — not just to ship an app, but to prove the process behind it.
+Built by a licensed dental hygienist ( CompTIA Security+, Network+ ) currently pivoting into tech, combining clinical oral health expertise with product design and AI-assisted development. This project is being used to demonstrate technical judgment, specification writing, and system design thinking as part of that transition — not just to ship an app, but to prove the process behind it.
 
 # Security Policy
 
@@ -12,7 +12,7 @@ Built by a licensed dental hygienist (CompTIA Security+, Network+) currently piv
 
 Please report security issues privately using GitHub's [private vulnerability reporting](../../security/advisories/new) feature — do not open a public issue.
 
-Expect an initial response within 72 hours
+Expect an initial response within 72 hours 
 
 ## Scope
 This is a pre-launch project. Findings related to auth, RLS, data exposure,
@@ -34,7 +34,7 @@ webhook verification, and encryption are especially welcome.
 - Built with [Lovable](https://lovable.dev) (AI-assisted full-stack development)
 - Frontend: React, Tailwind CSS
 - Backend/Database: Supabase
-- Hosted/deployed via [deployment platform]
+- Hosted/deployed via Lovable (custom domain planned post-launch)
 
 ## Development Approach
 
